@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/@truenishad" target="blank"><img src="https://img.shields.io/twitter/follow/@truenishad?logo=twitter&style=for-the-badge" alt="@truenishad" /></a> </p>
 
-- 🔭 I’m currently working on **HTML and CSS**
+- 🔭 I’m currently working on **FLUTTER**
 
-- 🌱 I’m currently learning **Web Development and DSA**
+- 🌱 I’m currently learning **App Development and DSA**
 
 - 📫 How to reach me **nishadphule@gmail.com**
 
